@@ -24,9 +24,6 @@
     "stream-consume": "^0.1.0",
     "webpack-dev-server": "^2.9.5"
   },
-  "engines": {
-   "node": "0.10.x"
-},
   "devDependencies": {
     "babel-core": "^6.5.1",
     "babel-loader": "^6.2.2",
