@@ -4,7 +4,7 @@
   "description": "my first app",
   "main": "index.js",
   "scripts": {
-    "start": "webpack -w"
+    "start": "node app.js"
   },
   "author": "Shipra",
   "license": "MIT",
